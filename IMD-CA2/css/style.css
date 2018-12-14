@@ -1,0 +1,88 @@
+.card-hero
+{
+    height: 266px;
+    
+}
+
+.card-title
+{
+    text-align: center;
+    margin-right: 5em
+}
+
+.container
+{
+    padding-top: 20px;
+}
+
+
+.skills-card
+{
+height: 400px;
+}
+
+
+
+.card-body
+{
+    height: 60px;
+}
+
+.card-collapse
+{
+    height: 600px;
+}
+
+
+h4
+{
+    color: white;
+
+}
+
+a:hover
+{
+    text-decoration: none;
+    text-decoration-color: white;
+}
+ 
+body {
+    background-color: #F4F4F4;
+  }
+
+
+  .bg-card
+  {
+      background: #373737;
+  }
+  .bg-hero
+  {
+      background:#66B9BF;
+  }
+  .bg-nav
+  {
+      background:#07889B;
+  }
+
+  .card-text
+  {
+      padding-left:2em;
+      display: flex;
+  }
+  .button
+  {
+      position: absolute;
+      right: 35px;
+      top: 12px;
+  }
+  .navbar-nav
+  {
+      padding-right: 80px;
+  }
+
+.form-control-contact
+{
+    width: 40%;
+}
+
+
